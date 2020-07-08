@@ -1,0 +1,6 @@
+Firstly initialized the git into local machine:
+  git init
+
+Next, Clone or copy the project from the remote repository to your local repo using:
+    git clone url
+

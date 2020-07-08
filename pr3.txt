@@ -1,0 +1,2 @@
+To add many files use :
+  git add .
